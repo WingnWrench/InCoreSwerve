@@ -130,7 +130,12 @@ The large steering bearing is what makes this layout possible, and it's also the
 
 ## Contributing
 
-Issues and pull requests are welcome — bug reports, build photos, and improvements especially. If you build one, open an issue or discussion with a photo; I'd love to see it.
+Issues, discussions and pull requests are welcome!
+
+- **Found a problem or have a question?** Open an [Issue](../../issues).
+- **Built one?** Share a photo in [Discussions](../../discussions) — I'd love to see it.
+- **Improved the design?** Make a copy of the Onshape document, then open an Issue or Discussion with a link to your copy and a screenshot. If it's an improvement, I'll merge it into the main design and credit you.
+- **Fixes to the README or BOM** can be sent as a pull request.
 
 ## License
 
