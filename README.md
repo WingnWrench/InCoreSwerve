@@ -46,8 +46,8 @@ A height-compact swerve module that leaves the space above the drivetrain free f
 
 The Onshape document has two versions of the module:
 
-- **Servo on top (recommended).** The steering servo sits above the module, so it sticks up more, but it's the simpler build. On many robots, the servo fits in space that would otherwise be empty anyway.
-- **Servo under the chassis.** The most compact version, but it hasn't been tested on a robot yet.
+- **Servo under the chassis (recommended).** The most compact version, but it hasn't been tested on a robot yet.
+-  **Servo on top.** The steering servo sits above the module, so it sticks up more, but it's the simpler build. On many robots, the servo fits in space that would otherwise be empty anyway.
 
 ## Gallery
 
