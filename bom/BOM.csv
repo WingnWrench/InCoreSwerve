@@ -1,0 +1,12 @@
+Part,Specification,Qty per module,Qty full drive (x4),Cost per module (USD),Notes
+Bearing,6808 (40 x 52 x 7 mm),2,8,9.20,Wheel bearings around the motor ($4.60 each)
+Bearing,61812 (60 x 78 x 10 mm),1,4,8.50,Steering bearing (the module turns on it)
+Screw,M2 x 15 mm,32,128,5.30,
+Nut,M2,8,32,0.21,
+Clamp,Fits a diameter of more than 45 mm,1,4,5.00,
+Filament,PLA,67.5 g,270 g,1.66,Structural parts
+Filament,TPU,12.22 g,48.88 g,0.55,Wheel
+Motor,goBILDA 312 RPM,1,4,54.99,Most teams already have; drives the wheel 1:1
+Servo,Axon MINI Servo MK2,1,4,99.99,Most teams already have; steering
+TOTAL,Per module without motor and servo,,,30.42,Full drive: 121.68
+TOTAL,Per module starting from zero,,,185.40,
