@@ -138,7 +138,6 @@ This project uses separate licenses for hardware and documentation:
 
 - **Hardware** (CAD files, drawings, BOM in `cad/` and `bom/`): [CERN Open Hardware Licence Version 2 – Permissive (CERN-OHL-P-2.0)](LICENSE)
 - **Documentation** (text and images in `docs/`, `images/` and this README): [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE-docs)
-- **Software** (if any, in `software/`): [MIT / Apache-2.0](LICENSE-software)
 
 You may use, modify, and build this module — including commercially — as long as you keep the copyright and license notices and give credit.
 
