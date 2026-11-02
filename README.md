@@ -139,7 +139,8 @@ This project uses separate licenses for hardware and documentation:
 - **Hardware** (CAD files, drawings, BOM in `cad/` and `bom/`): [CERN Open Hardware Licence Version 2 – Permissive (CERN-OHL-P-2.0)](LICENSE)
 - **Documentation** (text and images in `docs/`, `images/` and this README): [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE-docs)
 
-You may use, modify, and build this module — including commercially — as long as you keep the copyright and license notices and give credit.
+Improved the design? Make a copy of the Onshape document, then open an Issue or Discussion with a link to your copy and a screenshot. If it’s an improvement, I’ll merge it into the main design and credit you.
+Fixes to the README or BOM can be sent as a pull request.
 
 **Suggested attribution:** "InCoreSwerve by Rafa ([GitHub link]), licensed under CERN-OHL-P-2.0 / CC BY 4.0."
 
