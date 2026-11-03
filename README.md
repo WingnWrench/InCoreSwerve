@@ -114,7 +114,7 @@ The large steering bearing is what makes this layout possible, and it's also the
 
 **Limits.** The module could be even shorter, but the wheel diameter sets the limit: the wheel has to be big enough to fit the motor inside it.
 
-**Footprint.** Many low-profile swerve modules give up a lot of horizontal space to gain height. This one doesn't. Its envelope takes up about 35% of [reference area] below 76.5 mm, and in practice it uses closer to 25% of the usable space, which makes it very competitive on this metric.
+**Footprint.** Many low-profile swerve modules give up a lot of horizontal space to gain height. This is not much different, but there is space left. Its envelope occupies about 35% below 76.5 mm, and in practice it uses closer to 25% of the usable space, making it very competitive on this metric.
 
 ## Known issues & roadmap
 
