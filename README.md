@@ -74,8 +74,6 @@ The Onshape document has two versions of the module:
 - **Specific bearing sizes.** It's designed specifically around 6808 and 61812 bearings.
 - **Limited testing.** It works, but it hasn't been run long enough to prove long-term reliability.
 
-**FTC legality:** [All parts are COTS / legal under the current Game Manual rule R___]. Teams should always check the current season's manual.
-
 ## Bill of materials (per module)
 
 Multiply by 4 for a full swerve drive. A spreadsheet version is in [bom/BOM.csv](bom/BOM.csv).
