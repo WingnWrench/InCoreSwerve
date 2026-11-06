@@ -56,7 +56,6 @@ The Onshape document has two versions of the module:
 | <img src="images/steering-gear.png" alt="Module with the steering gear stage" width="260"> | <img src="images/side-view.png" alt="Side view" width="260"> | <img src="images/front-view.png" alt="Front view" width="260"> |
 | Module with the steering gear stage | Side view: wheel below, ring gear on top | Front view: motor face inside the housing |
 
-[Link to a short video of the drivetrain driving, if you have one.]
 
 ## Strengths and weaknesses
 
